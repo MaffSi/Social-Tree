@@ -3,7 +3,7 @@
 
 Esse agregador de links foi desenvolvido para por em prática meus conhecimentos adquiridos de HTML e CSS.
 
-[Acesse a página aqui!](maffsi.github.io/Social-Tree)
+[Acesse a página aqui!](https://maffsi.github.io/Social-Tree/)
 
 ## Tecnologias
 
